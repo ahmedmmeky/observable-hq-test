@@ -3,6 +3,10 @@
   text-align: center;
 }
 
+.dotPlot {
+  margin-top: 64px;
+}
+
 /* You can style the .plot class as you see fit! Default styles at */
 /* https://github.com/observablehq/plot/blob/main/src/style.css */
 /* .plot {
@@ -17,3 +21,8 @@
 .plot text {
   white-space: pre;
 } */
+svg {
+  height: 700px;
+  max-width: 100%;
+  width: 1000px;
+}
